@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirah Syahirah</h1>
-<h6 align="center" >Intelligent Systems Engineering graduate with a passion for software development and data analytics</h6>
+<h6 align="center" >Intelligent Systems Engineering graduate with a passion for data analytics & software development</h6>
 
 <h3 align="center">Connect with me</h3>
 <h6 align="center"> Feel free to connect with me </h6>
